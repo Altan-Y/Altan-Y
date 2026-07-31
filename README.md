@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Freshworks-FDK_3.0-0B6E99" alt="Freshworks FDK">
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white" alt="Microsoft 365">
@@ -14,7 +15,7 @@
 
 I'm studying **Business Information Systems** and gaining hands-on experience as an IT working student. My work combines internal web development, digital workplace solutions, technical documentation and user support.
 
-I enjoy turning manual internal processes into clear, usable tools — from access-governance dashboards and guided onboarding portals to knowledge bases and service integrations.
+I enjoy turning manual internal processes into clear, usable tools — from access-governance dashboards and guided onboarding portals to service-desk integrations and knowledge bases.
 
 ## Featured projects
 
@@ -46,10 +47,29 @@ A custom WordPress plugin that guides employees and guests through device-depend
 
 - employee and guest access paths;
 - Mac / Windows and office / remote branching;
-- persistent progress, tutorial and dark mode;
+- persistent route state, tutorial and dark mode;
 - WordPress, PHP, JavaScript, MariaDB and Docker.
 
 Real internal links, media, MFA, VPN and device-management actions are intentionally excluded from the public demo.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Freshservice Asset Context Demo](https://github.com/Altan-Y/freshservice-asset-context-demo)
+
+**Requester Asset Lookup for the Ticket Sidebar**
+
+A privacy-safe Freshworks app demo that resolves the requester email and presents assigned asset context directly beside a service ticket.
+
+- Freshworks client initialization and `app.activated` handling;
+- requester lookup from contact, ticket or requester context;
+- asset mapping, email filtering and HTML escaping;
+- compact original-style widget with loading, empty and error states;
+- standalone Docker preview, synthetic records and automated tests.
+
+The production concept used an external asset API, app settings, token caching and environment-specific field mappings. These integrations are intentionally replaced with fictional local data.
 
 </td>
 </tr>
@@ -58,14 +78,14 @@ Real internal links, media, MFA, VPN and device-management actions are intention
 ## Technologies and tools
 
 - **Development:** PHP, JavaScript, HTML, CSS, SQL, Java
-- **Platforms:** WordPress, SharePoint, Microsoft 365, Microsoft Intune
+- **Platforms:** WordPress, Freshworks / Freshservice, SharePoint, Microsoft 365, Microsoft Intune
 - **Identity & data:** Active Directory, LDAPS, MySQL-compatible databases, SQLite
 - **Workflow:** GitLab, GitHub, VS Code, Docker
 
 ## Current focus
 
 - building clean and portable portfolio versions of enterprise-style tools;
-- improving backend architecture, SQL and secure authentication patterns;
+- improving backend architecture, SQL, secure authentication and service integrations;
 - learning how product, engineering and digital-workplace processes connect.
 
 ## Portfolio principles
