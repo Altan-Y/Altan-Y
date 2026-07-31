@@ -12,7 +12,7 @@
 
 ## About me
 
-I study **Business Information Systems** and gain hands-on experience as an **IT working student**. I build practical internal tools that make IT processes easier to understand and use — especially in access governance, employee onboarding and service-desk workflows.
+I study **Business Information Systems** and gain hands-on experience as an **IT working student**. I build practical internal tools that make IT processes easier to understand and use, especially in access governance, employee onboarding and service-desk workflows.
 
 My portfolio focuses on independently rewritten, portable demonstrations of real-world product ideas. Each public project uses fictional data and excludes employer source code, production credentials, internal links and confidential records.
 
