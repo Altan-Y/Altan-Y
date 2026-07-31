@@ -27,7 +27,7 @@ My portfolio focuses on independently rewritten, portable demonstrations of real
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Altan-Y/access-governance-dashboard">
-  <img src="https://raw.githubusercontent.com/Altan-Y/access-governance-dashboard/main/assets/banner.svg" alt="AccessHub — Access Governance Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/Altan-Y/access-governance-dashboard/main/screenshots/accesshub-gallery.webp" alt="AccessHub product gallery" width="100%">
 </a>
 
 ### [AccessHub](https://github.com/Altan-Y/access-governance-dashboard)
@@ -44,7 +44,7 @@ A permission-aware access-governance dashboard for exploring groups, job roles, 
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Altan-Y/interactive-employee-onboarding">
-  <img src="https://raw.githubusercontent.com/Altan-Y/interactive-employee-onboarding/main/assets/banner.svg" alt="Interactive Employee Onboarding" width="100%">
+  <img src="https://raw.githubusercontent.com/Altan-Y/interactive-employee-onboarding/main/screenshots/onboarding-gallery.webp" alt="Interactive Employee Onboarding product gallery" width="100%">
 </a>
 
 ### [Interactive Employee Onboarding](https://github.com/Altan-Y/interactive-employee-onboarding)
@@ -63,7 +63,7 @@ A custom WordPress plugin for guided employee and guest onboarding across device
 <tr>
 <td colspan="2" valign="top">
 <a href="https://github.com/Altan-Y/freshservice-asset-context-demo">
-  <img src="https://raw.githubusercontent.com/Altan-Y/freshservice-asset-context-demo/main/assets/banner.svg" alt="Freshservice Asset Context Demo" width="100%">
+  <img src="https://raw.githubusercontent.com/Altan-Y/freshservice-asset-context-demo/main/screenshots/ticket-context.webp" alt="Freshservice Asset Context ticket preview" width="100%">
 </a>
 
 ### [Freshservice Asset Context Demo](https://github.com/Altan-Y/freshservice-asset-context-demo)
