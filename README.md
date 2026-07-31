@@ -1,98 +1,99 @@
-<h1 align="center">Hi, I'm Altan 👋</h1>
-<p align="center"><strong>Business Information Systems student · IT Working Student · Internal Web Development</strong></p>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Altan Yildirim — Business Information Systems, internal tools and IT automation" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Freshworks-FDK_3.0-0B6E99" alt="Freshworks FDK">
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white" alt="Microsoft 365">
 </p>
 
 ## About me
 
-I'm studying **Business Information Systems** and gaining hands-on experience as an IT working student. My work combines internal web development, digital workplace solutions, technical documentation and user support.
+I study **Business Information Systems** and gain hands-on experience as an **IT working student**. I build practical internal tools that make IT processes easier to understand and use — especially in access governance, employee onboarding and service-desk workflows.
 
-I enjoy turning manual internal processes into clear, usable tools — from access-governance dashboards and guided onboarding portals to service-desk integrations and knowledge bases.
+My portfolio focuses on independently rewritten, portable demonstrations of real-world product ideas. Each public project uses fictional data and excludes employer source code, production credentials, internal links and confidential records.
 
-## Featured projects
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Altan-Y/access-governance-dashboard">
+  <img src="https://raw.githubusercontent.com/Altan-Y/access-governance-dashboard/main/assets/banner.svg" alt="AccessHub — Access Governance Dashboard" width="100%">
+</a>
 
 ### [AccessHub](https://github.com/Altan-Y/access-governance-dashboard)
 
-**Access Governance Dashboard**
+A permission-aware access-governance dashboard for exploring groups, job roles, owners and approvers.
 
-A PHP portfolio application for exploring access groups, job roles, owners and approvers.
+`PHP` · `PDO` · `SQL` · `SQLite` · `Docker`
 
-- permission-aware editing;
-- PDO and prepared SQL statements;
-- audit trail and CSV export;
-- Docker setup and responsive dark mode.
-
-The production concept used LDAPS / Active Directory and a remote MySQL-compatible database. The public demo uses fictional accounts and SQLite / JSON.
+- secure sessions and CSRF protection;
+- prepared SQL statements;
+- authorized description editing;
+- audit trail and CSV export.
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/Altan-Y/interactive-employee-onboarding">
+  <img src="https://raw.githubusercontent.com/Altan-Y/interactive-employee-onboarding/main/assets/banner.svg" alt="Interactive Employee Onboarding" width="100%">
+</a>
 
 ### [Interactive Employee Onboarding](https://github.com/Altan-Y/interactive-employee-onboarding)
 
-**Guided WordPress Onboarding Portal**
+A custom WordPress plugin for guided employee and guest onboarding across device and workplace scenarios.
 
-A custom WordPress plugin that guides employees and guests through device-dependent onboarding flows.
+`WordPress` · `PHP` · `JavaScript` · `MariaDB` · `Docker`
 
-- employee and guest access paths;
-- Mac / Windows and office / remote branching;
-- persistent route state, tutorial and dark mode;
-- WordPress, PHP, JavaScript, MariaDB and Docker.
-
-Real internal links, media, MFA, VPN and device-management actions are intentionally excluded from the public demo.
+- employee and guest paths;
+- Mac, Windows, office and remote branches;
+- tutorial and responsive dark mode;
+- generated WordPress pages and signed access cookie.
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
+<a href="https://github.com/Altan-Y/freshservice-asset-context-demo">
+  <img src="https://raw.githubusercontent.com/Altan-Y/freshservice-asset-context-demo/main/assets/banner.svg" alt="Freshservice Asset Context Demo" width="100%">
+</a>
 
 ### [Freshservice Asset Context Demo](https://github.com/Altan-Y/freshservice-asset-context-demo)
 
-**Requester Asset Lookup for the Ticket Sidebar**
+A requester asset lookup for the ticket sidebar, presented through an original-style compact widget and a neutral service-desk preview.
 
-A privacy-safe Freshworks app demo that resolves the requester email and presents assigned asset context directly beside a service ticket.
+`Freshworks FDK` · `JavaScript` · `HTML` · `CSS` · `Docker`
 
-- Freshworks client initialization and `app.activated` handling;
-- requester lookup from contact, ticket or requester context;
-- asset mapping, email filtering and HTML escaping;
-- compact original-style widget with loading, empty and error states;
-- standalone Docker preview, synthetic records and automated tests.
-
-The production concept used an external asset API, app settings, token caching and environment-specific field mappings. These integrations are intentionally replaced with fictional local data.
+- Freshworks client initialization and activation handling;
+- requester lookup from multiple ticket contexts;
+- asset mapping, filtering and HTML escaping;
+- loading, success, empty and error states.
 
 </td>
 </tr>
 </table>
 
-## Technologies and tools
+## What I work with
 
-- **Development:** PHP, JavaScript, HTML, CSS, SQL, Java
-- **Platforms:** WordPress, Freshworks / Freshservice, SharePoint, Microsoft 365, Microsoft Intune
-- **Identity & data:** Active Directory, LDAPS, MySQL-compatible databases, SQLite
-- **Workflow:** GitLab, GitHub, VS Code, Docker
+| Area | Technologies and tools |
+|---|---|
+| **Application development** | PHP, JavaScript, HTML, CSS, SQL, Java |
+| **Platforms** | WordPress, Freshworks / Freshservice, SharePoint, Microsoft 365, Microsoft Intune |
+| **Identity and data** | Active Directory, LDAPS, MySQL-compatible databases, SQLite |
+| **Engineering workflow** | GitLab, GitHub, VS Code, Docker, GitHub Actions |
 
 ## Current focus
 
-- building clean and portable portfolio versions of enterprise-style tools;
-- improving backend architecture, SQL, secure authentication and service integrations;
-- learning how product, engineering and digital-workplace processes connect.
+- designing clean and portable versions of enterprise-style tools;
+- improving backend architecture, SQL and secure authentication patterns;
+- connecting technical implementation with understandable business value;
+- documenting production-versus-demo boundaries transparently.
 
-## Portfolio principles
+> **Portfolio standard:** Public demos are independently rewritten, use synthetic data and do not contain proprietary employer code, production data, internal URLs or credentials. AI-assisted development may support prototyping, while code, security boundaries and technical claims are reviewed manually.
 
-- Public demos are independently rewritten with fictional data.
-- Proprietary employer code, production data, internal links and credentials are not published.
-- AI-assisted development may support prototyping, while implementation and privacy boundaries are reviewed manually.
-- Projects should solve an understandable business problem and remain easy to run locally.
-
-<p align="center"><em>Open to connecting about working-student opportunities, internal tools and product-oriented software development.</em></p>
+<p align="center">
+  <strong>Open to connecting about working-student opportunities, internal tools and product-oriented software development.</strong>
+</p>
