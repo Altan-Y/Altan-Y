@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://altan-y.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-D5B16C?style=for-the-badge&logo=githubpages&logoColor=0B2039" alt="Visit portfolio website"></a>
+  <a href="https://github.com/Altan-Y?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View_Repositories-0B2039?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories"></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
